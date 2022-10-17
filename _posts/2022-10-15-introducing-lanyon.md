@@ -13,5 +13,9 @@ The mobile app we are building is a Note-taking app for iOS. We are implementing
 
 ### Project Artifacts
 * [SRS Document](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/docs/software_requirements_specification.md)
+* [Use Case and Activity Diagrams](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/SaiPalutla_Inclass_Assignment_3.docx)
+* [CRC cards, Class and Object diagrams](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/SaiPalutla_Inclass_Assignment_4.docx)
+* [Sequence Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Sequence_diagram.jpeg)
+* [State Machine Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/State_machine.jpeg)
 
 Thanks!
