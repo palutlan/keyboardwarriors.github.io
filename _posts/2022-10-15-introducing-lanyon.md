@@ -7,11 +7,11 @@ The mobile app we are building is a Note-taking app for iOS. We are implementing
 
 ### Team Members and Roles
 
-* [Sai Palutla](https://github.com/palutlan/CIS641-HW2-PALUTLA) (Developer)
+* [Sai Palutla](palutlan.github.io) (Developer)
 * [Konduru Prashanth Kumar](https://github.com/Prashanth3672/CIS641-HW2-KONDURU) (Product Owner)
 * [Srinivasa Reddy Doddy](https://github.com/unmtaken/CIS641-HW2-DODDY) (Scrum Master, Developer)
 
-### Project Artifcats
+### [SRS Document](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/docs/software_requirements_specification.md)
 
 Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Lanyon here) includes the following:
 
