@@ -3,7 +3,13 @@ layout: post
 title: CIS-641 Term Project - iOS Notes App
 ---
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+The mobile app we are building is a Note-taking app for iOS. We are implementing this app using Swift. This app will have the ability to scan documents, images and save them to a note. We are going to use a local database to save the notes on the app. [Github](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS)
+
+### Team Members and Roles
+
+* [Sai Palutla](https://github.com/palutlan/CIS641-HW2-PALUTLA) (Developer)
+* [Konduru Prashanth Kumar](https://github.com/Prashanth3672/CIS641-HW2-KONDURU) (Developer)
+* [Srinivasa Reddy Doddy](https://github.com/unmtaken/CIS641-HW2-DODDY) (Developer)
 
 ### Project Artifcats
 
