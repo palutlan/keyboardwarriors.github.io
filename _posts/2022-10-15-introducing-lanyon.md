@@ -18,4 +18,6 @@ The mobile app we are building is a Note-taking app for iOS. We are implementing
 * [Sequence Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Sequence_diagram.jpeg)
 * [State Machine Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/State_machine.jpeg)
 
+### [Agile Board - Trello](https://trello.com/invite/b/tHFGJv1x/ATTI83ea98ea76c946f33b8829c5eb3c41adCF1B3F8F/notes-app)
+
 Thanks!
