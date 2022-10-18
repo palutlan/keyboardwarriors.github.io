@@ -7,7 +7,7 @@ The mobile app we are building is a Note-taking app for iOS. We are implementing
 
 ### Team Members and Roles
 
-* [Sai Palutla](palutlan.github.io) (Developer)
+* [Sai Palutla](https://palutlan.github.io) (Developer)
 * [Konduru Prashanth Kumar](https://github.com/Prashanth3672/CIS641-HW2-KONDURU) (Product Owner)
 * [Srinivasa Reddy Doddy](https://github.com/unmtaken/CIS641-HW2-DODDY) (Scrum Master, Developer)
 
