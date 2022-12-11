@@ -15,7 +15,7 @@ The mobile app we are building is a Note-taking app for iOS. We are implementing
 * [SRS Document](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/docs/software_requirements_specification_final.md)
 * [Use Case Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Use_Case_Diagram.pdf)
 * [Class and Object diagrams](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Class_Diagram.pdf)
-* * [Activity Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Acitivty_Diagram.PNG)
+* [Activity Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Acitivty_Diagram.PNG)
 * [Sequence Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/Sequence_diagram.jpeg)
 * [State Machine Diagram](https://github.com/palutlan/GVSU-CIS641-KEYBOARDWARRIORS/blob/master/artifacts/State_machine.jpeg)
 
